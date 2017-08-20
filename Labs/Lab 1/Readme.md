@@ -17,4 +17,3 @@ Part 2
 ======
 
 Instead of sorting 10 numbers, we will sort 100,000 numbers. For this write extra code to create list of 100,000 random numbers. Use the code that you wrote for sorting to sort this list. You will need to modify the loop to make it run 100,000 times.
-
