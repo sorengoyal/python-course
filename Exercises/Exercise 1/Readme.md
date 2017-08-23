@@ -18,7 +18,7 @@ Create a file *hello.py*. With the following contents
 
 
 # [3] Correct the code
-Use the code in the file *lab1.py.*
+Use the code in the file *sort.py.*
 The code has a list of 10 numbers that is being sorted using selection sort. However, the code is incorrectly written. Correct the code. (Hint: Code has errors in two lines only)
 
 **About selection sort** <br>
@@ -36,4 +36,4 @@ The algorithm can be understood as follows. It starts by searching through the l
 
  Instead of sorting 10 numbers, we will sort 100,000 numbers. For this write extra code to create list of 100,000 random numbers. Use the code that you wrote for sorting to sort this list. You will need to modify the loop to make it run 100,000 times.
 
- > *Note*: Although the we will cover the for loops in detail later, for this exercise simple for loops should work
+ > *Note*: Although the we will cover the for loops in detail later, for this exercise simple for-loops should work
