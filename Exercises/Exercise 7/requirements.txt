@@ -1,0 +1,6 @@
+Flask==0.12.1
+Flask-WTF==0.14.2
+pysolr==3.6.0
+gunicorn==19.7.1
+WTForms==2.1
+

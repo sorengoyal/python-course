@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>Test Page</title>
+	</head>
+	<body>
+		<h1>Welcome to Test Website</h1>
+		{% if wordCounts %}
+		<div>
+			<ul>
+			{% for (word,count) in wordCounts %}
+  			<li>{{word}}: {{count}}</li>
+			{% endfor %}
+			</ul>
+		</div>
+	  {% endif %}
+	  <div>
+			<form action="" method="post" name="main_form">
+			    {{ form.hidden_tag() }}
+			    <p>
+			        Please enter some text:<br>
+			        {{ form.text(size=500) }}
+			    </p>
+			    <p><input type="submit" value="Count Words"></p>
+			</form>
+	  </div>
+	</body>
+</html>
