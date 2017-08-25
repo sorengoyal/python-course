@@ -1,4 +1,4 @@
-# Lab 2
+# Lab 3
 
 1. How would check if ‘silent’ is an anagram of ‘listen’ ? (Do not use loops, just use inbuilt python functions)
 2. Find the lexicographically smallest letter in the word ‘python’ without loops

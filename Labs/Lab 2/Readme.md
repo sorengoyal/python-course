@@ -1,4 +1,4 @@
-# Lab 3
+# Lab 2
 
 
 ## Unpacking
@@ -20,4 +20,4 @@ Write a loop to print the diagonal elements.
 4 5 6
 7 8 9
 ```
-3. 2. Use a for loop to print out 'pams amsp mspa spam' from 'spam'. Try to write the loop in just two lines including the loop header. (Hint: Use slicing to break the string at the desired point)
+3. Use a for loop to print out 'pams amsp mspa spam' from 'spam'. Try to write the loop in just two lines including the loop header. (Hint: Use slicing to break the string at the desired point)
