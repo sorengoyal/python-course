@@ -3,3 +3,4 @@ As an example to motivate our representation, how would you represent the set of
 Mathematically, we call the function which takes an integer as argument and which returns a boolean indicating whether the given integer belongs to a set, the characteristic function of the set. For example, we can characterize the set of negative integers by the characteristic function (x: Int) => x < 0.
 
 Therefore, we choose to represent a set by its characteristic function and define a type alias for this representation:
+3. Create an if-elif suing a dictionary

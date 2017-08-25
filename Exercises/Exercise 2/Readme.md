@@ -1,6 +1,6 @@
 # Exercise 2
 
-Write a program to count the occurrence of each word in sentence. Try to use unpacking and for-loops to reduce your code length.
+Write a program to count the occurrence of each word in sentence. Ignoring the case
 For example the sentence
 ```
 'Ba ba black sheep'
@@ -12,9 +12,11 @@ black 1
 sheep 1
 
 ```
-
-You might to use some require new methods
-* string - `split()` , `lower()`
-* list - `remove()`, `append()`
-
-> Use `dir()` and `help()` to understand the usage
+> NOTE:
+>
+> Try to use unpacking and for-loops to reduce your code length. <br>
+> You might to use some require new methods
+> * string - `split()` , `lower()`
+> * list - `remove()`, `append()`
+>
+> Use `dir()` and `help()` to understand the usage of the methods

@@ -15,8 +15,8 @@ Python is popular programming language. The design philosophy of Python emphasiz
 
 # Course Schedule
 
-| Date(Day) |             Material      |
-|------ |-------------------------------|
+| Date(Day) |             Material          |
+|-----------|-------------------------------|
 |Sep 1 (Fri)| Introduction, Objects and Expressions 1 <br> Lab 1 - Selection Sort <br> Exercise 1 - Setting up Python|
 |Sep 05 (Tue) | Objects and Expressions - 2 <br> Lab 2 - <br> Exercise 2 -  |
 |Sep 12 (Tue) | Statements - if-else, while, for, assignments <br> Lab 3 - <br> Exercise 3 - |
