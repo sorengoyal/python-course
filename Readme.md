@@ -13,16 +13,42 @@ Python is popular programming language. The design philosophy of Python emphasiz
 * Introduce concepts of functional and object oriented programming
 * Demonstrate, by example, the popular and preferred programming practices in Python
 
-# Course Schedule
+#Course Materials
+
+All slides are shared on [Google Drive](https://drive.google.com/open?id=0BxizmqiVfLYeenB6LUV0d2txYlk)
+The assignments and exercises are in this repository. 
+
+# Course Schedule and Location
+**Time** - 1:30 pm to 3 pm
+
+**Schedule** - 
 
 | Date(Day) |             Material          |
 |-----------|-------------------------------|
-|Sep 1 (Fri)| Introduction, Objects and Expressions 1 <br> Lab 1 - Selection Sort <br> Exercise 1 - Setting up Python|
-|Sep 05 (Tue) | Objects and Expressions - 2 <br> Lab 2 - <br> Exercise 2 -  |
-|Sep 12 (Tue) | Statements - if-else, while, for, assignments <br> Lab 3 - <br> Exercise 3 - |
-|Sep 19 (Tue)| Functions <br>  Lab 4 - <br> Exercise 4 - |
+|Sep 1 (Fri)| Introduction, Objects and Expressions 1 <br> Lab 1<br> Exercise 1|
+|Sep 05 (Tue) | Statements - if-else, while, for, assignments<br> Lab 2 <br> Exercise 2|
+|Sep 12 (Tue) | Objects and Expressions - 2 <br> Lab 3<br> Exercise |
+|Sep 19 (Tue)| Functions <br>  Lab 4 <br> Exercise 4|
 |Sep 26 (Tue) | No Lecture |
-|Oct 03 (Tue) | Comprehensions and Generators <br> Lab 5 - <br> Exercise 5 -|
-|Oct 10 (Tue) | Modules and Classes <br> Lab 6 - <br> Exercise 6 -  |
+|Oct 03 (Tue) | Comprehensions and Generators <br> Lab 5 <br> Exercise 5|
+|Oct 10 (Tue) | Modules and Classes <br> Lab 6 <br> Exercise 6 |
 
-All slides are shared on [Google Drive](https://drive.google.com/open?id=0BxizmqiVfLYeenB6LUV0d2txYlk)
+**Location** - Chicago 8-425 Atlantic
+
+**Bluejeans** - 
+
+Link - https://bluejeans.com/9718896359
+
+Bluejeans Meeting Id - 9718896359
+
+Want to dial in from a phone ?
+Dial the number: +1.408.740.7256
+Enter the meeting ID and passcode followed by #
+
+Connecting from a room system?
+Dial: 199.48.152.152 or bjn.vc and enter your meeting ID
+
+
+
+
+
