@@ -13,7 +13,7 @@ Python is popular programming language. The design philosophy of Python emphasiz
 * Introduce concepts of functional and object oriented programming
 * Demonstrate, by example, the popular and preferred programming practices in Python
 
-#Course Materials
+# Course Materials
 
 All slides are shared on [Google Drive](https://drive.google.com/open?id=0BxizmqiVfLYeenB6LUV0d2txYlk)
 The assignments and exercises are in this repository. 
