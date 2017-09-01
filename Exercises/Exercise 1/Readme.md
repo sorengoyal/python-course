@@ -36,4 +36,4 @@ The algorithm can be understood as follows. It starts by searching through the l
 
  Instead of sorting 10 numbers, we will sort 100,000 numbers. For this write extra code to create list of 100,000 random numbers. Use the code that you wrote for sorting to sort this list. You will need to modify the loop to make it run 100,000 times.
 
- > *Note*: Although the we will cover the for loops in detail later, for this exercise simple for-loops should work
+ > *Note*: Although the we will cover the for loops in detail later, for this exercise, manipulate the for-loop code by inferring their behavior fromt the code.
