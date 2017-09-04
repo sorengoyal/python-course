@@ -21,6 +21,7 @@ No 's' found
 2. Use unpacking to swap two variables.
 
 ## Fun with loops
+
 1. Consider the matrix stored as list of lists -
 ```python
 l = [[1,2,3],

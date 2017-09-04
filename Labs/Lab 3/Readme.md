@@ -2,7 +2,7 @@
 
 ## Dictionaries
 
-You have been given two lists - 
+You have been given two lists -
 ```python
 names = ['melon', 'mango', 'banana', 'apple']
 costs = [1.29, 2.55, 0.79, 1.49]
@@ -17,11 +17,11 @@ costs = [1.29, 2.55, 0.79, 1.49]
 ## Sets
 1. Construct a set out of the list `[2,3,5,7,11,13]`.
 2. Construct a set out of the letters of the string - `'python'`0
-3. How would check if ‘silent’ is an anagram of ‘listen’ ? (Do not use loops, just use inbuilt python functions)
+3. How would check if ‘silent’ is an anagram of ‘listen’ ? (Do not use loops)
 4. Find the number of unique letters in the word ‘mississippi’ ?
 
 ## Files and Lists
-Given a list - 
+Given a list -
 ```python
 names = ['melon', 'mango', 'banana', 'apple']
 ```
