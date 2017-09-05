@@ -4,7 +4,7 @@
 > The function `input()` gets input from the user and returns it as a string.
 
 ## if-else
-1. Take input from a user and check if the string has a 's' in it. The input and output should be as shown int eh example.
+1. Take input from a user and check if the string has a 's' in it. The input and output should be as shown in the example.
 ```
 >>> Enter a string: sense
 Found 2 's'
@@ -16,9 +16,9 @@ No 's' found
 
 ## Unpacking
 
-1. Consider the standard date format - `'mm-dd-yyyy'`. Use the popular string method split() and unpack the string into 3 variables `m`, `d` and `y` such that they contain the month, day and year respectively.
+1. Consider the standard date format - `'mm-dd-yyyy'`. Break it up into 3 variables `m`, `d` and `y` such that they contain the month, day and year respectively. Use the popular string method `split()` to remove the `-` and get a list of `['mm','dd','yyyy']`. Unpack the list into the vaiables `m`, `d` and `y`.
 
-2. Use unpacking to swap two variables.
+2. Given two variables `a` and `b` swap their values in one line of code. (*Hint: Use unpacking*)
 
 ## Fun with loops
 
