@@ -13,10 +13,9 @@ black 1
 sheep 1
 ```
 
-> NOTE: 
+> NOTE:
 >
-> In this code you will require only one loop and one dictionary. The string methods will still prove useful - 
+> In this code you will require only one loop and one dictionary. The following string methods will still prove useful -
 > * string - `split()` , `lower()`
 >
-> Use `dir()` and `help()` to underatnd the usage of the methods
-
+> Use `dir()` and `help()` to understand the usage of the methods
