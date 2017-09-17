@@ -5,7 +5,7 @@ for index in range(0, 10):
 	for j in range(0, 10):
 		if(minIndex >  j):
 			minIndex = j
-		temp = l[index]
-		l[index] = l[minIndex]
-		l[minIndex] = temp
+	temp = l[index]
+	l[index] = l[minIndex]
+	l[minIndex] = temp
 print(l[:10])
