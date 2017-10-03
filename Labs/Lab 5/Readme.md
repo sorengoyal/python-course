@@ -1,7 +1,7 @@
 # Lab 5
 
 ## Comprehensions
-1. Given a list `l=[]`, print the output of `dir(l)` neatly,i.e one element per line. Use a comprehension expression to achieve this.
+1. Given a list `l=[]`, print the output of `dir(l)` neatly, i.e one element per line. Use a comprehension expression to achieve this.
 
 Given a matrix m, arranged by rows -
 ```python
@@ -13,21 +13,23 @@ m = [[1,2,3],
 
 3. Write a another expression to compute the transpose of the matrix. The result should look as follows -
 ```python
-m_t = [[1,4,7],
-      [2,5,8],
-      [3,6,9]]
+[[1,4,7],
+ [2,5,8],
+ [3,6,9]]
 ```
+
 ## Generators
-We will create a pipeline to perform computation on a lists.
-We begin with a simple list of words -
+We will create a pipeline to perform computation on lists.
+We start with a simple list of words -
 ```python
 words = ['spam', 'ham', 'chiclet']
 ```
 
-1. Write a generator function `capitalize()` that accepts the list and capitalizes the first letter of each word.
+1. Write a *generator* function `capitalize()` that accepts the list and capitalizes the first letter of each word.
+> Hint:
 > 'upper()' method of present in string object will be useful
 
-2. Write a another generator function `printer` that takes a list as argument. For each word in the list it prints the word and returns the length of the word.
+2. Write a another *generator* function `printer()` that takes a list as argument. For each word in the list it prints the word and returns the length of the word.
 
 The following code will use the functions you just created.
 ```python
@@ -45,3 +47,4 @@ Ham
 Chiclet
 7
  ```
+In this code, none of the lists are computed beforehand. It is only during each iteration of the for loop that the compution happens. 
