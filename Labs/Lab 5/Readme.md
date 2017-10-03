@@ -7,7 +7,7 @@ Given a matrix m, arranged by rows -
 ```python
 m = [[1,2,3],
     [4,5,6],
-    [7.8.9]]
+    [7,8,9]]
 ```
 2. Write a comprehension expression to find the sum of elements of each row.
 
