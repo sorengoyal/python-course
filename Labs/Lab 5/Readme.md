@@ -33,6 +33,7 @@ words = ['spam', 'ham', 'chiclet']
 
 The following code will use the functions you just created.
 ```python
+words = ['spam', 'ham', 'chiclet']
 capitals = capitalize(words)
 lengths = printer(capitals)
 for i in range(0,3):
@@ -47,4 +48,4 @@ Ham
 Chiclet
 7
  ```
-In this code, none of the lists are computed beforehand. It is only during each iteration of the for loop that the compution happens. 
+In this code, none of the lists are computed beforehand. It is only during each iteration of the for loop that the compution happens.
